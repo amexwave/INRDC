@@ -47,6 +47,7 @@ Platform           : Waves Platform
 Premine           : 100%
 
 ASSET INFO
+
 Asset ID        : 9L3E6fELS4ZYih5St4hwmyvJYTLRzXGK5ei8eFJCcnFg
 Contract ID     : 3PAZTLWW9nTxKwSGLF5KajnL8PSxeiNpW4C
 Block Explorer  : http://wavesexplorer.com/address/3PAZTLWW9nTxKwSGLF5KajnL8PSxeiNpW4C
@@ -57,4 +58,4 @@ Waves Official  : https://www.wavesplatform.com
 Transaction Fee : 0.001 Waves
 
 Wallet        : https://amexwave.github.io/INRDC/
-Exchange     : https://beta.wavesplatform.com
+Exchange      : https://beta.wavesplatform.com
