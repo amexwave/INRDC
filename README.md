@@ -20,7 +20,7 @@ Waves is an open-source blockchain platform, developed, marketed, and operated b
 
 WAVES DECENTRALIZED EXCHANGE
 
-WavesDex is a decentralized traded based on the Waves blockchain. It enables clients to exchange their BTC/ETH/and so on in return for Waves (or some other resource token issued on the Waves stage
+WavesDex is a decentralized traded based on the Waves blockchain. It enables clients to exchange their BTC/ETH/and so on in return for Waves (or some other resource token issued on the Waves stage)
 
 ABOUT INRDC
 
@@ -40,11 +40,11 @@ SPECIFICATIONS
 
 Token name      : INRDC
 Token Ticker    : INRDC
-TOTAL TOKEN        : 90,000,000,000 INRDC
-Current Supply     : 10,000,000 INRDC - 2018
+TOTAL TOKEN     : 90,000,000,000 INRDC
+Current Supply  : 10,000,000 INRDC - 2018
 Algorithm       : PoS
-Platform           : Waves Platform
-Premine           : 100%
+Platform        : Waves Platform
+Premine         : 100%
 
 ASSET INFO
 
@@ -57,5 +57,5 @@ Waves Official  : https://www.wavesplatform.com
 
 Transaction Fee : 0.001 Waves
 
-Wallet        : https://amexwave.github.io/INRDC/
-Exchange      : https://beta.wavesplatform.com
+Wallet          : https://amexwave.github.io/INRDC/
+Exchange        : https://beta.wavesplatform.com
